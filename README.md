@@ -89,7 +89,7 @@ https://www.picspeak.art
 
 - 🌐 Website: https://www.picspeak.art  
 - 💻 GitHub: https://github.com/AsaZhou923
-- 📧 Email: xavierzhou923@gmail.com
+- 📧 Email: xavierzhou23@gmail.com
 <p>
 <a href="https://www.picspeak.art">
 <img src="https://img.shields.io/badge/Website-picspeak.art-blue?style=for-the-badge"/>
