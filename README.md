@@ -20,6 +20,10 @@
 - 🚀 Building **PicSpeak — AI photography critique platform**  
 - 📸 Interested in **AI applications, photography, and product development**
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI+Product+Builder;Creator+of+PicSpeak&center=true&width=400&height=50">
+</p>
+
 ---
 
 # 🚀 Current Project
@@ -52,18 +56,7 @@ https://www.picspeak.art
 <img src="https://skillicons.dev/icons?i=vue,nextjs,ts"/>
 </p>
 
-### Tools & Infra
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,cloudflare"/>
-</p>
-
 ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI+Product+Builder;Creator+of+PicSpeak&center=true&width=400&height=50">
-</p>
 
 <!--
 ---
@@ -76,11 +69,6 @@ https://www.picspeak.art
 
 ---
 -->
-# 📦 Featured Projects
-
-| Project | Description |
-|------|-------------|
-| PicSpeak | AI-powered photography critique platform |
 
 
 ---
