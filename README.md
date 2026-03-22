@@ -71,8 +71,6 @@ https://www.picspeak.art
 -->
 
 
----
-
 # 📫 Contact
 
 - 🌐 Website: https://www.picspeak.art  
