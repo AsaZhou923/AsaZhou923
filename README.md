@@ -58,17 +58,11 @@ https://www.picspeak.art
 
 ---
 
-<!--
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
--->
+### open source contributions
+ 
+| Project | PR |
+|---------|-----|
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [fix: support legacy Discord channel env alias and align docs](https://github.com/ZhuLinsen/daily_stock_analysis/pull/659) |
 
 
 # 📫 Contact
