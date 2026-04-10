@@ -79,6 +79,7 @@ https://www.picspeak.art
 <img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
+
 ---
 
 ⭐ If you find my projects useful, consider giving them a star.
