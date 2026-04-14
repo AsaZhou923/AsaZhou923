@@ -48,7 +48,7 @@ https://www.picspeak.art
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,python"/>
+<img src="https://skillicons.dev/icons?i=java,,python,spring,postgres,mysql,docker"/>
 </p>
 
 ### Frontend
