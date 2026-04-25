@@ -83,3 +83,6 @@ https://www.picspeak.art
 ---
 
 ⭐ If you find my projects useful, consider giving them a star.
+
+---
+[![Tokscale Stats](https://tokscale.ai/api/embed/AsaZhou923/svg?view=3d)](https://tokscale.ai/u/AsaZhou923)
