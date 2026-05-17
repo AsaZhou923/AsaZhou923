@@ -1,88 +1,42 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Xavier</h1>
-<h3 align="center">Software Engineer | Building AI-powered products</h3>
+
+<p align="center">
+  <strong>Software Engineer</strong> · AI product builder · Based in Japan
+</p>
 
 <p align="center">
   <a href="https://www.picspeak.art">
-    <img src="https://img.shields.io/badge/Project-PicSpeak-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Project-PicSpeak-blue?style=for-the-badge" alt="PicSpeak">
   </a>
   <a href="https://github.com/AsaZhou923">
-    <img src="https://komarev.com/ghpvc/?username=AsaZhou923&label=Profile%20views&color=0e75b6&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=AsaZhou923&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views">
+  </a>
+  <a href="mailto:xavierzhou923@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
 
----
-
-# 👨‍💻 About Me
-
-- 💻 Software Engineer  
-- 🌏 Based in Japan  
-- 🚀 Building **PicSpeak — AI photography critique platform**  
-- 📸 Interested in **AI applications, photography, and product development**
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI+Product+Builder;Creator+of+PicSpeak&center=true&width=400&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;AI+Product+Builder;Creator+of+PicSpeak&center=true&width=430&height=45" alt="Typing intro">
 </p>
 
----
+## About
 
-# 🚀 Current Project
+I'm building [PicSpeak](https://www.picspeak.art), an AI-powered photography critique platform for composition, lighting, color, and storytelling feedback.
 
-### PicSpeak
+## Stack
 
-AI-powered photography critique platform that helps photographers improve their photos through automated feedback.
-
-**Features**
-
-- Composition analysis
-- Lighting evaluation
-- Color feedback
-- Storytelling suggestions
-
-🌐 Website  
-https://www.picspeak.art
-
----
-
-# 🧰 Tech Stack
-
-### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,spring,postgres,mysql,docker"/>
+  <img src="https://skillicons.dev/icons?i=java,python,spring,postgres,mysql,docker,vue,nextjs,ts" alt="Tech stack">
 </p>
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=vue,nextjs,ts"/>
-</p>
+## Open Source
 
----
-
-### open source contributions
- 
 | Project | PR |
-|---------|-----|
+| --- | --- |
 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [fix: support legacy Discord channel env alias and align docs](https://github.com/ZhuLinsen/daily_stock_analysis/pull/659) |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [openclaw/openclaw#77722](https://github.com/openclaw/openclaw/pull/77722) |
 
+## Stats
 
-# 📫 Contact
-
-- 🌐 Website: https://www.picspeak.art  
-- 💻 GitHub: https://github.com/AsaZhou923
-- 📧 Email: xavierzhou23@gmail.com
-<p>
-<a href="https://www.picspeak.art">
-<img src="https://img.shields.io/badge/Website-picspeak.art-blue?style=for-the-badge"/>
-</a>
-
-<a href="mailto:xavierzhou923@gmail.com">
-<img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
-
----
-
-⭐ If you find my projects useful, consider giving them a star.
-
----
 [![Tokscale Stats](https://tokscale.ai/api/embed/AsaZhou923/svg?view=3d)](https://tokscale.ai/u/AsaZhou923)
