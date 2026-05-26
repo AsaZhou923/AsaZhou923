@@ -36,6 +36,7 @@ I'm building [PicSpeak](https://www.picspeak.art), an AI-powered photography cri
 | --- | --- |
 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [fix: support legacy Discord channel env alias and align docs](https://github.com/ZhuLinsen/daily_stock_analysis/pull/659) |
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | [fix(ui): Harden QA Lab saved view persistence](https://github.com/openclaw/openclaw/pull/77722) |
+| [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | [fix(auth): serialize device auth polling](https://github.com/junhoyeo/tokscale/pull/546) |
 
 ## Stats
 
