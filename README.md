@@ -40,4 +40,4 @@ I'm building [PicSpeak](https://www.picspeak.art), an AI-powered photography cri
 
 ## Stats
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/AsaZhou923/svg?view=3d)](https://tokscale.ai/u/AsaZhou923)
+[![Tokscale Stats](https://tokscale.ai/api/embed/AsaZhou923/svg?theme=light&template=graph&rank=percent&tokens=full&cost=full)](https://tokscale.ai/u/AsaZhou923)
