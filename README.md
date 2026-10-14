@@ -33,8 +33,10 @@ I build production-minded AI products, local-first applications, and agent infra
 | --- | --- | --- |
 | [PicSpeak](https://github.com/AsaZhou923/picspeak) | AI photography critique that turns visible evidence into a measurable retake loop | [Live product](https://www.picspeak.art/en) |
 | [MeetingRelay](https://github.com/AsaZhou923/MeetingRelay) | Local-first Windows meeting transcription with on-device ASR, durable SQLite storage, and optional translation | [Latest release](https://github.com/AsaZhou923/MeetingRelay/releases/latest) |
+| [TokSync](https://github.com/AsaZhou923/toksync) | Private-first, metrics-only AI coding usage sync across devices, with local reports and opt-in public sharing | [Source code](https://github.com/AsaZhou923/toksync) |
+| [SeaweedFS Console](https://github.com/AsaZhou923/seaweedfs-console) | Independent web console for SeaweedFS cluster management and image asset workflows | [Source code](https://github.com/AsaZhou923/seaweedfs-console) |
+| [PromptCrate](https://github.com/AsaZhou923/PromptCrate) | Local-first browser extension for inserting reusable prompt templates with variables at the cursor | [Source code](https://github.com/AsaZhou923/PromptCrate) |
 | [Dual Agent System](https://github.com/AsaZhou923/dual-agent-system) | Version-pinned Windows-to-Mac agent collaboration with explicit contracts, policy boundaries, and audit trails | [System repository](https://github.com/AsaZhou923/dual-agent-system) |
-| [Open City AI proposals](https://github.com/open-city-ai/haidian/tree/main/submissions/AsaZhou923) | Machine-readable urban design proposals with bilingual reports, GeoJSON, metrics, and compliance evidence | [Rail Memory](https://github.com/open-city-ai/haidian/tree/main/submissions/AsaZhou923/rail-memory-ai-commons) · [Stewardship Compact](https://github.com/open-city-ai/haidian/tree/main/submissions/AsaZhou923/jingzhang-stewardship-compact) |
 
 ## Stack
 
@@ -44,14 +46,13 @@ I build production-minded AI products, local-first applications, and agent infra
 
 ## Open Source
 
+Selected merged contributions to other projects.
+
 | Project | Contribution | Status |
 | --- | --- | --- |
-| [open-city-ai/haidian](https://github.com/open-city-ai/haidian) | [Rail Memory AI Commons](https://github.com/open-city-ai/haidian/pull/1389) | Merged |
-| [open-city-ai/haidian](https://github.com/open-city-ai/haidian) | [Jing-Zhang Stewardship Compact](https://github.com/open-city-ai/haidian/pull/1783) | Merged |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [Support the legacy Discord channel environment alias](https://github.com/ZhuLinsen/daily_stock_analysis/pull/659) | Merged |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | [Harden QA Lab saved view persistence](https://github.com/openclaw/openclaw/pull/77722) | [Landed on main · credited](https://github.com/openclaw/openclaw/commit/81a578fd6bffc137e6830c1f389d5cd91fc1bd07) |
-| [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | [Serialize device authentication polling](https://github.com/junhoyeo/tokscale/pull/546) | Merged |
-| [microsoft/vscode](https://github.com/microsoft/vscode) | [Support tsserver offset diagnostics in simulation validation](https://github.com/microsoft/vscode/pull/316878) | In review |
+| [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) | [Serialize device authentication polling](https://github.com/junhoyeo/tokscale/pull/546) · [Correct filtered leaderboard totals](https://github.com/junhoyeo/tokscale/pull/1390) · [Apply OpenAI Fast pricing for suffix-only requests](https://github.com/junhoyeo/tokscale/pull/1391) | Merged |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [Support the legacy Discord channel environment alias](https://github.com/ZhuLinsen/daily_stock_analysis/pull/659) · [Keep alert lists aligned with current filters after mutations](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2378) | Merged |
+| [Willxup/cpa-usage-keeper](https://github.com/Willxup/cpa-usage-keeper) | [Fix Claude partial header cache merging](https://github.com/Willxup/cpa-usage-keeper/pull/593) | Merged |
 
 ## Stats
 
